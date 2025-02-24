@@ -2,7 +2,7 @@
 
 # Hi  :wave:
 
-<p>Front-End | Software Engineer :robot:</p>
+<p>Fullstack | Software Engineer :robot:</p>
 
 <div>
  <p align="left">
